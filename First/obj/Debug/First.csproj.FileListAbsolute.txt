@@ -1,0 +1,16 @@
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\bin\Debug\First.exe.config
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\bin\Debug\First.exe
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\bin\Debug\First.pdb
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First.csprojAssemblyReference.cache
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First._2nd_Screen.resources
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First.csproj.GenerateResource.cache
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First.exe
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First.pdb
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First._3rd_screen.resources
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First._1st_Screen.resources
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First._4th_Screen.resources
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\bin\Debug\Correios.Net.dll
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\bin\Debug\Correios.Net.pdb
+C:\Users\joao3\source\repos\ExcepetionTreatment\First\obj\Debug\First.csproj.CopyComplete
